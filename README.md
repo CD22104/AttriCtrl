@@ -15,8 +15,8 @@ AttriCtrl is **lightweight**, **model-agnostic**, and achieves **continuous cont
 ## Inference Code
 
 ```shell
-git clone https://github.com/modelscope/DiffSynth-Studio.git  
-cd DiffSynth-Studio
+git clone https://github.com/CD22104/AttriCtrl.git
+cd AttriCtrl
 pip install -e .
 ```
 
