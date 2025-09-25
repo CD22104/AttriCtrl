@@ -2,20 +2,30 @@
 ## 📖 Introduction
 Our method enables **fine-grained control over the intensity of semantic attributes** in diffusion models through a **plug-and-play value encoder**.  
 Unlike existing text encoders, which cannot interpret numeric intensity or continuous values, **AttriCtrl bridges this gap** and allows precise, interpretable adjustments of aesthetic attributes.
-[intro.pdf](https://github.com/user-attachments/files/22526500/intro.pdf)
+<img width="4455" height="2589" alt="intro" src="https://github.com/user-attachments/assets/d9b5fd9b-ec72-466c-9c35-5b34e21fecc6" />
+
 
 
 ## 🎚️ Single-Attribute Control
-- [Single.pdf](https://github.com/user-attachments/files/22526462/single.pdf): Examples of controlling individual aesthetic attributes.
+Examples of controlling individual aesthetic attributes.
+<img width="4060" height="1934" alt="single" src="https://github.com/user-attachments/assets/cc379fe0-7493-4d22-b470-077641618b0a" />
+
+
 
 ## 🎛️ Multi-Attribute Control
-- Multi-Attribute examples (see `multi.pdf`).
+Multi-Attribute examples.
+
+
 
 ## 🔗 Applications
-- [Application.pdf](https://github.com/user-attachments/files/22526464/application.pdf): Demonstrations of seamless integration with other frameworks.
+Demonstrations of seamless integration with other frameworks.
+<img width="4936" height="1049" alt="app" src="https://github.com/user-attachments/assets/a979b346-5045-4447-aea6-88a49677c29b" />
+
 
 ## 🏆 Performance
-- [US.pdf](https://github.com/user-attachments/files/22526490/us.pdf): AttriCtrl outperforms related baselines across user studies and quantitative benchmarks.
+AttriCtrl outperforms related baselines across user studies and quantitative benchmarks.
+
+
 
 ---
 
