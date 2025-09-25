@@ -2,7 +2,8 @@
 ## 📖 Introduction
 Our method enables **fine-grained control over the intensity of semantic attributes** in diffusion models through a **plug-and-play value encoder**.  
 Unlike existing text encoders, which cannot interpret numeric intensity or continuous values, **AttriCtrl bridges this gap** and allows precise, interpretable adjustments of aesthetic attributes.
-- [Intro.pdf](https://github.com/user-attachments/files/22526500/intro.pdf): Overview of our approach.
+[intro.pdf](https://github.com/user-attachments/files/22526500/intro.pdf)
+
 
 ## 🎚️ Single-Attribute Control
 - [Single.pdf](https://github.com/user-attachments/files/22526462/single.pdf): Examples of controlling individual aesthetic attributes.
