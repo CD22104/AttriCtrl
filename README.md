@@ -1,6 +1,6 @@
 # AttriCtrl
 ## Introduction
-Paper Link: [AttriCtrl: A Generalizable Framework for Controlling Semantic Attribute Intensity in Diffusion Models Metadata](https://arxiv.org/abs/2508.02151)
+Paper Link (Accepted by ICLR2026): [AttriCtrl: A Generalizable Framework for Controlling Semantic Attribute Intensity in Diffusion Models Metadata](https://arxiv.org/abs/2508.02151)
 
 Our method enables **fine-grained control over the intensity of semantic attributes** in diffusion models through a **plug-and-play value encoder**.  
 Unlike existing text encoders, which cannot interpret numeric intensity or continuous values, **AttriCtrl bridges this gap** and allows precise, interpretable adjustments of aesthetic attributes.
