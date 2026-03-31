@@ -19,7 +19,7 @@ Demonstrations of seamless integration with other frameworks.
 AttriCtrl is **lightweight**, **model-agnostic**, and achieves **continuous controllability** without modifying the underlying diffusion backbone.
 
 ## Inference Code
-Pretrained weights are provided in `./models/attrictrl`.
+Pretrained weights are provided in [Google Drive]([https://arxiv.org/abs/2508.02151](https://drive.google.com/drive/folders/1AeQM5S5-IsySvBeqVT2eZVmblPIHOkGj?usp=drive_link)) Put them in `./models/attrictrl`.
 1. Installation
 ```shell
 git clone https://github.com/CD22104/AttriCtrl.git
