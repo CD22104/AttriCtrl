@@ -1,0 +1,8 @@
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+outputs/
+logs/
+__pycache__/
